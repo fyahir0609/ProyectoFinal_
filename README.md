@@ -9,6 +9,7 @@ Integrantes:
 Fernández Sánchez Yahir Sebastián
 Rosete Launizar Elideth
 Vazquez Huesca Naomi
+Barroso Mateos Carlos Rafael
 
 
 Instrucciones:
